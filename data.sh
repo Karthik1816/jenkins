@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "HI SUMA"
+echo "HELLO WORLD FROM SUMA"
